@@ -4,4 +4,4 @@ This project presents a comprehensive classification analysis of a customer chur
 
 PROJECT DASHBOARD IPYNB FILE:https://drive.google.com/file/d/1Wjzcu-r9PtskJXqnr90V9CPfSwtSHhT7/view?usp=sharing
 
-PROJECT DASHBOARD PDF FILE:https://drive.google.com/file/d/18dwEbaB3rBytaz9qm--4z9pdKV68njAT/view?usp=sharing
+PROJECT DASHBOARD PDF FILE:https://drive.google.com/file/d/1l3SFvJ5S6GVkupDpJoMMHfaTJMyRdq5Z/view?usp=sharing
